@@ -25,12 +25,3 @@ Il file `walmart_sales.csv` contiene 6.435 righe, con 143 osservazioni per ciasc
 
 - `walmart_sales.ipynb`: notebook con codice, grafici e commenti
 - `walmart_sales.csv`: dati utilizzati
-
-## Come riprodurre l’analisi
-
-1. Clona o scarica il repository.
-2. Installa Python e i pacchetti `pandas`, `numpy` e `matplotlib`.
-3. Avvia Jupyter nella cartella del progetto e apri `walmart_sales.ipynb`.
-4. Esegui le celle dall’inizio alla fine, mantenendo il CSV nella stessa cartella del notebook.
-
-L’analisi è esplorativa: le correlazioni e i confronti osservati non dimostrano causalità e non bastano, da soli, a giustificare decisioni commerciali.
